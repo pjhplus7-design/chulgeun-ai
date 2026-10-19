@@ -1,0 +1,18 @@
+{
+  "_설명": "사이트 기본 설정입니다. base_url은 게시 후 실제 주소로 바꾸세요.",
+  "name": "출근길 브리핑",
+  "tagline": "지하철 다섯 정거장 동안 읽는 오늘의 주요 뉴스",
+  "description": "바쁜 직장인을 위해 매일 아침 국내외 주요 뉴스를 3줄 요약과 생활 영향으로 정리합니다.",
+  "base_url": "https://pjhplus7-design.github.io/chulgeun-ai",
+  "contact_email": "",
+  "show_ad_placeholders": true,
+  "adsense_client": "",
+  "ad_slots": {
+    "_설명": "애드센스 승인 후 광고 단위 ID를 넣으면 자리 표시 대신 실제 광고가 나옵니다.",
+    "top": "",
+    "infeed": "",
+    "sidebar": "",
+    "article": ""
+  },
+  "affiliate_html": ""
+}

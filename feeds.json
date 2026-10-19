@@ -1,0 +1,25 @@
+{
+  "_설명": "수집할 RSS 주소 목록입니다. name은 출처 표기에 쓰입니다. 정치 기사가 한쪽으로 치우치지 않도록 성향이 다른 매체를 함께 넣었습니다. 주소는 언론사가 바꿀 수 있으니, 수집 로그에 [건너뜀]이 계속 나오면 각 언론사의 RSS 안내 페이지에서 다시 확인하세요.",
+  "feeds": [
+    {"name": "대한민국 정책브리핑", "url": "https://www.korea.kr/rss/policy.xml", "lang": "ko"},
+    {"name": "연합뉴스", "url": "https://www.yna.co.kr/rss/news.xml", "lang": "ko"},
+    {"name": "조선일보", "url": "https://www.chosun.com/arc/outboundfeeds/rss/?outputType=xml", "lang": "ko"},
+    {"name": "한겨레", "url": "https://www.hani.co.kr/rss/", "lang": "ko"},
+    {"name": "경향신문", "url": "https://www.khan.co.kr/rss/rssdata/total_news.xml", "lang": "ko"},
+    {"name": "매일경제", "url": "https://www.mk.co.kr/rss/30000001/", "lang": "ko"},
+    {"name": "한국경제", "url": "https://www.hankyung.com/feed/all-news", "lang": "ko"},
+    {"name": "BBC World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml", "lang": "en"},
+    {"name": "NPR World", "url": "https://feeds.npr.org/1004/rss.xml", "lang": "en"}
+  ],
+  "keywords": {
+    "_설명": "제목·요약에 들어 있으면 점수를 더합니다. 숫자가 클수록 먼저 고릅니다. 여러 언론사가 같은 사건을 다루면 중요한 뉴스일 가능성이 높아 자동으로 가산점이 붙습니다.",
+    "대통령": 3, "국회": 3, "정부": 2, "법안": 2, "선거": 3, "여당": 2, "야당": 2,
+    "금리": 3, "환율": 3, "물가": 3, "수출": 2, "부동산": 3, "집값": 3, "주가": 2, "코스피": 2, "세금": 3, "연금": 3, "최저임금": 3, "고용": 2,
+    "지원금": 3, "신청": 2, "시행": 3, "제도": 2, "개편": 2, "인상": 2, "인하": 2,
+    "사고": 2, "재난": 3, "태풍": 3, "지진": 3, "폭염": 2, "한파": 2,
+    "북한": 3, "미국": 2, "중국": 2, "일본": 2, "전쟁": 3, "휴전": 3, "정상회담": 3,
+    "반도체": 2, "AI": 1,
+    "president": 2, "election": 3, "war": 3, "ceasefire": 3, "summit": 3, "economy": 2, "inflation": 2, "Korea": 3
+  },
+  "block_words": ["광고", "협찬", "포토", "[사진]", "오늘의 운세", "날씨", "부고", "인사", "sponsored", "podcast", "quiz"]
+}
