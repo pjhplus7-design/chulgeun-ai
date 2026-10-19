@@ -1,5 +1,127 @@
 [
   {
+    "id": "local-tax-future-fund",
+    "title": "미래대응기금 두고 정부·지자체 지방교부세 갈등",
+    "category": "politics",
+    "date": "2026-10-16",
+    "summary": [
+      "정부가 새로 만드는 미래대응기금 적립액을 먼저 뺀 뒤 지방교부세를 계산하기로 하면서, 2027년 예산안의 교부세 정률분이 기존 방식보다 30조 5,000억 원 적게 잡혔습니다.",
+      "시도지사협의회 간담회에서 위성곤 제주도지사는 장기적으로 지방교부세율을 올려 지방재정을 안정시켜야 한다고 요구했습니다.",
+      "행정안전부는 2027년 지방교부세 총액이 77조 2,000억 원으로 올해보다 7조 8,000억 원(11.3%) 늘어난다며, 기금이 오히려 지방 투자를 늘릴 것이라는 입장입니다."
+    ],
+    "why": "지방교부세는 지자체 살림의 큰 부분을 차지하는 돈이라, 계산 방식이 바뀌면 지역 사업 규모가 달라질 수 있습니다. 미래대응기금 법안은 9월 3일 국회에 제출돼 심의 중입니다.",
+    "tip": "당장 개인에게 달라지는 점은 없지만, 국회 심의 결과에 따라 내가 사는 지역의 도로·복지 같은 지자체 사업 예산이 영향을 받을 수 있습니다. 정부와 지자체 양쪽 설명을 함께 보는 것이 좋습니다.",
+    "body": "",
+    "sources": [
+      {
+        "name": "파이낸셜뉴스",
+        "url": "https://www.fnnews.com/news/202610161833363077"
+      },
+      {
+        "name": "SBS Biz",
+        "url": "https://biz.sbs.co.kr/amp/article/20000337204"
+      }
+    ],
+    "rumor": false,
+    "status": "published"
+  },
+  {
+    "id": "bok-oct-preview",
+    "title": "22일 금통위, 기준금리 연 3.00% 동결에 무게",
+    "category": "economy",
+    "date": "2026-10-14",
+    "summary": [
+      "한국은행 금융통화위원회가 10월 22일 기준금리를 정합니다. 현재 기준금리는 연 3.00%입니다.",
+      "한은은 7월과 8월 두 달 연속 0.25%포인트씩 올렸는데, 이번에는 그 효과를 지켜보기 위해 동결할 것이라는 전망이 많습니다.",
+      "중동 전쟁 이후 소비자물가 상승률은 1분기 2%대 초반에서 3% 안팎으로 올라섰고, 한은은 올해 물가 상승률을 2.7%로 내다보고 있습니다."
+    ],
+    "why": "기준금리는 대출 이자와 예금 금리에 바로 영향을 줍니다. 미국 물가가 다시 오르고 있어, 이번에 동결하더라도 11월 이후 추가 인상 가능성이 거론됩니다.",
+    "tip": "변동금리 대출이 있다면 22일 발표와 한은 총재 기자간담회 발언을 확인해 보세요. 예·적금 가입을 고민 중이라면 금리 방향이 정해진 뒤에 결정해도 늦지 않습니다.",
+    "body": "",
+    "sources": [
+      {
+        "name": "쿠키뉴스",
+        "url": "https://www.kukinews.com/article/view/kuk202610130146"
+      }
+    ],
+    "rumor": false,
+    "status": "published"
+  },
+  {
+    "id": "us-cpi-sep-2026",
+    "title": "미국 9월 소비자물가 3.7% 상승, 금리 인상 전망 커져",
+    "category": "world",
+    "date": "2026-10-14",
+    "summary": [
+      "미국 노동통계국에 따르면 9월 소비자물가는 1년 전보다 3.7% 올라 8월(3.4%)보다 오름폭이 커졌습니다.",
+      "휘발유 가격이 한 달 새 7.1% 오르는 등 에너지 가격 상승이 항공료 같은 다른 물가로 번졌습니다. 식품과 에너지를 뺀 근원물가는 2.6% 올랐습니다.",
+      "발표 뒤 시장에서는 미국 중앙은행(연준)이 12월에 금리를 올릴 것이라는 전망이 늘었고, 다음 금리 결정은 10월 28일입니다."
+    ],
+    "why": "미국 금리가 오르면 한미 금리 차가 벌어져 원화 가치와 한국은행의 금리 결정에도 영향을 줍니다. 국제 유가 상승이 세계 물가를 다시 끌어올리고 있다는 신호이기도 합니다.",
+    "tip": "해외 직구나 해외여행 계획이 있다면 환율 흐름을 확인해 보세요. 미국 주식에 투자하고 있다면 28일 연준 발표 전후로 변동성이 커질 수 있습니다.",
+    "body": "",
+    "sources": [
+      {
+        "name": "Virginia Business (로이터 통신 배포)",
+        "url": "https://virginiabusiness.com/us-consumer-price-index-september-rate-hike-bets/"
+      }
+    ],
+    "rumor": false,
+    "status": "published"
+  },
+  {
+    "id": "sejong-relocation-44",
+    "title": "중앙행정기관 44곳 세종 이전, 2027년부터 단계적으로",
+    "category": "policy",
+    "date": "2026-10-13",
+    "summary": [
+      "행정안전부가 수도권에 있는 중앙행정기관 등 44곳을 세종으로 옮기는 계획을 발표했습니다. 대상 공무원 정원은 9,929명입니다.",
+      "2027년에는 금융위원회, 개인정보보호위원회, 재외동포청 등 27곳(2,995명)이 임차 청사로 먼저 옮기고, 경찰청·감사원·외교부·국방부 등 17곳(6,934명)은 2031년까지 새 청사를 지어 이전합니다.",
+      "외교부·통일부·국방부·법무부·성평등가족부는 현행법상 이전 제외 기관이라, 정부는 국회와 협의해 법을 고칠 방침입니다."
+    ],
+    "why": "정부는 수도권 집중을 줄이기 위한 핵심 전략이라고 설명했습니다. 반면 재외동포청이 있는 인천에서는 여야와 시민단체가 이전에 반대하는 등 지역 반발도 나오고 있습니다.",
+    "tip": "이전 대상 기관이나 관련 업체에서 일한다면 근무지 변경 시기를 확인해 둘 필요가 있습니다. 세종·대전 일대 부동산과 상권에도 영향이 있을 수 있어 해당 지역 거주자는 지켜볼 만합니다.",
+    "body": "",
+    "sources": [
+      {
+        "name": "SBS Biz",
+        "url": "https://biz.sbs.co.kr/amp/article/20000339664"
+      },
+      {
+        "name": "위키트리",
+        "url": "https://www.wikitree.co.kr/articles/1165870"
+      }
+    ],
+    "rumor": false,
+    "status": "published"
+  },
+  {
+    "id": "energy-ceasefire-followup",
+    "title": "에너지 휴전 발표 뒤에도 공격 계속, 러시아는 합의 확인 안 해",
+    "category": "world",
+    "date": "2026-10-12",
+    "summary": [
+      "트럼프 미국 대통령이 러시아와 우크라이나의 '에너지 휴전'을 발표한 뒤에도 러시아는 하르키우의 발전소와 가스 시설 등을 공격했다고 젤렌스키 우크라이나 대통령이 밝혔습니다.",
+      "크렘린궁 대변인은 에너지 휴전에 합의했는지 확인하지 않고 \"접촉이 계속되고 있다\"고만 말했습니다.",
+      "젤렌스키 대통령은 우크라이나는 러시아 에너지 시설 공격을 멈출 의향이 있다며, 60일 이상 전면 휴전이 이뤄지면 선거도 준비하겠다고 했습니다."
+    ],
+    "why": "트럼프 대통령의 발표와 달리 실제 휴전은 아직 이뤄지지 않은 상태입니다. 전쟁이 이어지면서 국제 에너지 가격 불안도 계속되고 있습니다.",
+    "tip": "당장 생활에 달라지는 점은 없지만, 휴전 여부는 기름값과 난방비 흐름에 영향을 줍니다. 앞서 전한 에너지 휴전 발표 기사의 후속 소식입니다.",
+    "body": "",
+    "sources": [
+      {
+        "name": "Irish News (AP 통신 배포)",
+        "url": "https://www.irishnews.com/news/world/zelensky-says-russia-strikes-energy-facilities-despite-trump-ceasefire-claim-GNCAI6N6HJKD7ETVCT6RDKMLMM/"
+      },
+      {
+        "name": "Ukrainska Pravda",
+        "url": "https://www.pravda.com.ua/eng/news/2026/10/12/8057592/"
+      }
+    ],
+    "rumor": false,
+    "status": "published"
+  },
+  {
     "id": "energy-ceasefire",
     "title": "트럼프 \"러시아·우크라이나 에너지 시설 휴전 합의\" 발표",
     "category": "world",
@@ -13,8 +135,14 @@
     "tip": "당장 달라지는 점은 없지만, 휴전이 지켜지면 국제 유가와 가스 가격이 안정되는 쪽으로 움직일 수 있습니다. 양측 정부의 공식 확인 여부를 지켜볼 만합니다.",
     "body": "",
     "sources": [
-      {"name": "The Star (로이터 통신 배포)", "url": "https://www.thestar.com.my/news/world/2026/10/11/trump-says-russia-and-ukraine-reached-039energy-ceasefire039"},
-      {"name": "Al Jazeera", "url": "https://www.aljazeera.com/amp/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2"}
+      {
+        "name": "The Star (로이터 통신 배포)",
+        "url": "https://www.thestar.com.my/news/world/2026/10/11/trump-says-russia-and-ukraine-reached-039energy-ceasefire039"
+      },
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/amp/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2"
+      }
     ],
     "rumor": true,
     "status": "published"
@@ -33,7 +161,10 @@
     "tip": "중동을 경유하는 출장이나 여행 계획이 있다면 항공사 운항 공지와 외교부 해외안전여행 정보를 먼저 확인하세요. 유가가 오르면 국내 기름값에도 시차를 두고 반영됩니다.",
     "body": "",
     "sources": [
-      {"name": "NPR·AP 통신 (St. Louis Public Radio 게재)", "url": "https://www.stlpr.org/npr/2026-10-10/passenger-terminal-at-riyadh-airport-is-struck-again-a-day-after-12-were-killed"}
+      {
+        "name": "NPR·AP 통신 (St. Louis Public Radio 게재)",
+        "url": "https://www.stlpr.org/npr/2026-10-10/passenger-terminal-at-riyadh-airport-is-struck-again-a-day-after-12-were-killed"
+      }
     ],
     "rumor": false,
     "status": "published"
@@ -52,7 +183,10 @@
     "tip": "생활에 직접 달라지는 점은 없습니다. 다만 국제형사재판소를 둘러싼 미국의 제재 등 국제 질서 갈등이 이어지고 있어 관련 뉴스를 이해하는 배경이 됩니다.",
     "body": "",
     "sources": [
-      {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/9/2026-nobel-peace-prize-awarded-to-navi-pillay"}
+      {
+        "name": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/9/2026-nobel-peace-prize-awarded-to-navi-pillay"
+      }
     ],
     "rumor": false,
     "status": "published"
@@ -68,11 +202,17 @@
       "12~16일에는 출생연도와 관계없이 신청할 수 있으며, 심사 결과는 11월 12~13일에 나오고 계좌 개설은 11월 16~27일입니다."
     ],
     "why": "정부 기여금과 비과세를 합치면 일반 적금보다 수익이 크게 높아지는 청년 자산 형성 상품입니다. 기존 청년도약계좌 가입자도 이번에 갈아탈 수 있습니다.",
-    "tip": "1991년 11월 17일~2007년 11월 27일 출생이라면 대상인지 은행 앱에서 확인해 보세요. 청년도약계좌에서 갈아탈 경우, 새 계좌를 먼저 연 뒤 기존 계좌를 특별중도해지해야 혜택이 유지됩니다.",
+    "tip": "2차 신청은 10월 16일에 마감됐습니다. 신청했다면 11월 12~13일 심사 결과 안내를 확인하고, 청년도약계좌에서 갈아탈 경우 새 계좌를 먼저 연 뒤 기존 계좌를 특별중도해지해야 혜택이 유지됩니다.",
     "body": "",
     "sources": [
-      {"name": "파이낸셜뉴스 (금융위원회·서민금융진흥원 발표 인용)", "url": "https://www.fnnews.com/news/202610061046004577"},
-      {"name": "토스뱅크 안내", "url": "https://www.tossbank.com/articles/youth-future-saving-2nd"}
+      {
+        "name": "파이낸셜뉴스 (금융위원회·서민금융진흥원 발표 인용)",
+        "url": "https://www.fnnews.com/news/202610061046004577"
+      },
+      {
+        "name": "토스뱅크 안내",
+        "url": "https://www.tossbank.com/articles/youth-future-saving-2nd"
+      }
     ],
     "rumor": false,
     "status": "published"
@@ -91,7 +231,10 @@
     "tip": "투자·금융 상품이나 관심 있는 제도가 있다면 해당 상임위 감사에서 어떤 지적이 나오는지 지켜볼 만합니다. 여야 주장이 엇갈리는 사안은 양쪽 설명을 함께 확인하는 것이 좋습니다.",
     "body": "",
     "sources": [
-      {"name": "위키트리", "url": "https://www.wikitree.co.kr/articles/1164725"}
+      {
+        "name": "위키트리",
+        "url": "https://www.wikitree.co.kr/articles/1164725"
+      }
     ],
     "rumor": false,
     "status": "published"
@@ -110,8 +253,14 @@
     "tip": "반도체 관련 기업에 다니거나 투자하고 있다면 업황 흐름을 계속 확인하세요. 수출 호조가 이어지면 환율과 성과급, 채용 같은 분야에도 영향을 줄 수 있습니다.",
     "body": "",
     "sources": [
-      {"name": "KDI 경제정보센터 (산업통상부 보도자료)", "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=287666"},
-      {"name": "머니투데이방송", "url": "https://news.mtn.co.kr/news-detail/2026100109075980661"}
+      {
+        "name": "KDI 경제정보센터 (산업통상부 보도자료)",
+        "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=287666"
+      },
+      {
+        "name": "머니투데이방송",
+        "url": "https://news.mtn.co.kr/news-detail/2026100109075980661"
+      }
     ],
     "rumor": false,
     "status": "published"
